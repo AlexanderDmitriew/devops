@@ -1,3 +1,3 @@
 /infrastructure/terraform
 secrets
-var.tf
+/infrastructure/var.tf
